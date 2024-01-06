@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ayukse1
 - 👀 I’m interested in responsive website design
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me from m.ardayuksell@gmail.com
 
 <!---
